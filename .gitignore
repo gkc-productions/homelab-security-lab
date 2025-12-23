@@ -1,0 +1,13 @@
+# secrets and env
+.env
+*.key
+*.pem
+*.p12
+*.pfx
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# logs
+*.log
